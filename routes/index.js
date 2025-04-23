@@ -6,7 +6,7 @@ const db = require('./db');
 
 router.get('/', (req, res) => {
 
-    const data = req.query.hkgdfgieptjporjfdmskjweorpweogokjfdgpodfg;
+    const data = req.query.jksdfjhreuifhjkjhfnkfdpogporgkjg;
 
     
     if (data == null) {
