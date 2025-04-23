@@ -75,7 +75,7 @@ router.post('/try', (req, res) => {
                                     console.error('Error inserting record:', err);
                                     return res.status(500).send('Internal Server Error');
                                 }
-                                res.redirect('./22-Apr-25 New Proposed MOU.pdf');
+                                res.redirect('../22-Apr-25 New Proposed MOU.pdf');
                             });
                                     });
       
